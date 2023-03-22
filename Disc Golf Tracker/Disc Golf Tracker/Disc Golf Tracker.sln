@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disc Golf Tracker", "Disc Golf Tracker\Disc Golf Tracker.csproj", "{328206E4-BD00-422B-820D-5597C86E8BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328206E4-BD00-422B-820D-5597C86E8BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328206E4-BD00-422B-820D-5597C86E8BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328206E4-BD00-422B-820D-5597C86E8BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328206E4-BD00-422B-820D-5597C86E8BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD08210E-9D56-4E66-A05E-34EDE8DFB8E8}
+	EndGlobalSection
+EndGlobal
